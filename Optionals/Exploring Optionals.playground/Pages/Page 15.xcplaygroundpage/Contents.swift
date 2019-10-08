@@ -11,8 +11,15 @@
  
  */
 // Type the code below this line...
+//the number 12 will how up becasue there's a value for both x and y
+var x: Int? = 3
+var y: Int? = 4
 
-
+if let notNilX = x, let notNilY = y{
+    notNilX * notNilY
+}else{
+    print("cannot compute, x, y, or both are nil")
+}
 /*:
  
  ## Summarize your learning

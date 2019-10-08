@@ -11,6 +11,9 @@
  
  */
 // Type the code below this line...
+//there will be no red eroors showing but there will not be a result
+var x: Int?
+var y: Int?
 
-
+x! * y!
 //: [Next](@next)

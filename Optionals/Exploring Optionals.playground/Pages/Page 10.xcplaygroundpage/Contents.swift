@@ -11,6 +11,8 @@
  
  */
 // Type the code below this line...
-
-
+//the code is not going to work because there isn't a vaule for y
+var x: Int = 0
+var y: Int
+x * y
 //: [Next](@next)
